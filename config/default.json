@@ -1,0 +1,6 @@
+{
+    "port": 5555,
+    "jwtSecret": "dsk8s5",
+    "mongoUri": "mongodb+srv://ag:dsk8s5@cluster0.b5who.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5555"
+}
